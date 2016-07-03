@@ -1,2 +1,1 @@
 print("Hello");
-ptint("Welcom");
